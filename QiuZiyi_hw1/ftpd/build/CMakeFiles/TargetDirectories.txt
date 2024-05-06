@@ -1,0 +1,3 @@
+C:/Users/qiumu/Desktop/QiuZiyixlab0504/ftpd/build/CMakeFiles/main.dir
+C:/Users/qiumu/Desktop/QiuZiyixlab0504/ftpd/build/CMakeFiles/edit_cache.dir
+C:/Users/qiumu/Desktop/QiuZiyixlab0504/ftpd/build/CMakeFiles/rebuild_cache.dir
